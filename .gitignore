@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+backend/.env
+backend/service_account.json
+backend/__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Local
+.DS_Store
+.vscode/
+.idea/
+.gemini/
